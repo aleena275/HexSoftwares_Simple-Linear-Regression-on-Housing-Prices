@@ -89,7 +89,7 @@ The project demonstrates the complete Data Science workflow including:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HexSoftwares_Housing_Prediction.git
+git clone https://github.com/aleena275/HexSoftwares_Simple-Linear-Regression-on-Housing-Prices.git
 ```
 
 2. Install dependencies:
