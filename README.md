@@ -130,15 +130,9 @@ The Linear Regression model provides a solid baseline for house price prediction
 
 ---
 
-## 🔗 Submission
-
-* GitHub Repository Link
-* LinkedIn Post with Project Explanation
-
----
 
 ## 👨‍💻 Author
 
-[Your Name]
+Aleena Sohail.
 
 ---
